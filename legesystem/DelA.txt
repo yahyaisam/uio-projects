@@ -1,0 +1,24 @@
+IN1010 Oblig 4 - Del A: 
+
+
+Oppgave A1: 
+
+* Alle skal møte opp til avtalt gruppearbeid. Man må gi beskjed om man ikke kommer. 
+* Alle skal bidra med koding. 
+* Vi vil fordele arbeidsmengden omtrent likt på gruppas medlemmer. 
+* Vi ønsker å levere et godt program med ryddig og lesbar kode. Vi ønsker at alt skal fungere og at oppgaven skal bli godkjent. 
+
+
+Oppgave A2: 
+
+* Vi vil ikke dele opp kode og jobbe med det individuelt, men jobbe sammen i par, eller i større gruppe. Hvis noen vil jobbe videre med koden på egenhånd er det ok. 
+* Vi vil sette av tid til flere arbeidsøkter hvor vi jobber sammen. Disse skal vare i 2-4 timer. 
+* Oppgave A-D skal være ferdig til mandag 14. mars så vi har en uke på å jobbe med oppgave E-F. Vi ønsker å bli ferdig med hele oppgaven i løpet av fredag 18. mars, men hvis det blir nødvendig jobber vi videre i helgen og mandag 21. mars. 
+* Vi kommuniserer i Discord og koder sammen i VS Code Live Share. Vi lagrer koden lokalt på dataen til den som gjorde de siste oppdateringene og deler koden i en zip-fil med de andre. 
+
+
+Oppgave A3: 
+
+* Vi vil bruke Philips løsning av oblig 2 og 3. 
+* Fordeler er at koden gir et godt utgangspunkt for denne oppgaven. Kodene våre er relativt like, men Philip har valgt å bruke toveis lenkeliste og vi tenker at dette gir oss et godt utgangspunkt.  
+* En ulempe med dette valget er at vi har forskjellig kodeskikk og Philips kode har lite luft. Dette kan vi dog løse ved å legge til luft i koden ved behov.

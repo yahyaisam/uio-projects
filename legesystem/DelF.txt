@@ -1,0 +1,23 @@
+IN1010 Oblig 4 F
+
+F1: Hva gikk bra?
+Helhetlig sett erfarte vi at vi jobbet godt sammen. 
+Det var lett å bli enige om møtetider og det var lett å organisere oss ved behov.
+Vi brukte grupperom for å dele koden på skjerm, og lot en ta ansvaret for å gjøre endringer som ble foreslått.
+Vi brukte også LiveShare-ekstensjonen på VSCode som tillot oss å samkode, eller bare å følge med på en av oss som koder fra egen skjerm.
+Å basere oss på obligløsningen til andre gikk rimelig greit, men vi poengterer nedenfor at tilnærmingen til dette ble at “vi finner ut av det”.
+
+F2: Hva ville dere gitt dere gjort annerledes neste gang? 
+Selv om det var lett å organisere oss, opplevde vi at vi ikke fikk synkronisert timeplanene våre før det hadde gått en uke - og dermed fikk vi dårlig tid.
+Dette er ikke noe vi får gjort mye med, men det er mulig vi skulle hatt et kort møte på starten for å diskutere andre arbeidsmåter. 
+Dette kunne for eksempel vært at vi delegerte arbeidsoppgaver til hverandre, og møttes fysisk senere for å presentere hva vi har gjort.
+Å komme frem til en arbeidsmetode som funker til koding i grupper. Å bruke de foreslåtte arbeidsmetodene som ble tipset av foreleserne virket som gode ideer i teorien,
+men i praksis “hoppet vi rett inn i arbeidet” uten å klargjøre helt hvordan vi ville jobbe sammen. 
+Å sette seg inn i andres oblig-løsninger var også en utfordring, og var et aspekt av arbeidet som vi bare hoppet oss gjennom. 
+
+F3: Hva har dere fått ut av gruppearbeidet? 
+Det har vært interessant å kode sammen med andre, Vi erfarte at det var greit å diskutere løsninger sammen,
+og det var lettere å oppdage og rette opp på eventuelle feil og kuriositeter som oppstår i koden. 
+Bruken av samkodingsprogramvare som LiveShare funket overraskende godt, og fasiliterte da at alle fikk fulgt med på samme kode fra sin egen skjerm, 
+framfor å dele alt på en enkelt skjerm.
+
